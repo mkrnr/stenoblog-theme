@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "minima"
+  spec.name          = "stenoblog-theme"
   spec.version       = "2.5.0"
-  spec.authors       = ["Joel Glovier"]
-  spec.email         = ["jglovier@github.com"]
+  spec.authors       = ["Martin Koerner"]
+  spec.email         = ["info@mkoerner.de"]
 
-  spec.summary       = "A beautiful, minimal theme for Jekyll."
-  spec.homepage      = "https://github.com/jekyll/minima"
+  spec.summary       = %q{Fork of a beautiful, minimal theme for Jekyll which is used for stenoblog.com.}
+  spec.homepage      = "https://github.com/mkrnr/stenoblog-theme"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
