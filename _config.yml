@@ -45,8 +45,12 @@ minima:
 # - about.md
 
 # Build settings
-theme: minima
 
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+markdown: kramdown
+theme: stenoblog-theme
+exclude:
+  - Gemfile
+  - Gemfile.lock
