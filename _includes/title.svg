@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="50.391483mm"
-   height="9.1722221mm"
-   viewBox="0 0 50.391484 9.1722219"
+   width="37.793613mm"
+   height="6.8791671mm"
+   viewBox="0 0 37.793614 6.8791669"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="banner.svg">
+   sodipodi:docname="title.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.7855881"
-     inkscape:cx="32.153209"
-     inkscape:cy="-3.288199"
+     inkscape:zoom="2.676815"
+     inkscape:cx="10.321665"
+     inkscape:cy="-6.6682635"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -42,10 +42,10 @@
      inkscape:snap-others="false"
      inkscape:object-nodes="false"
      inkscape:bbox-nodes="true"
-     inkscape:window-width="1918"
-     inkscape:window-height="1054"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1364"
+     inkscape:window-height="742"
+     inkscape:window-x="1920"
+     inkscape:window-y="312"
      inkscape:window-maximized="0"
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false" />
@@ -65,17 +65,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-39.086997,-105.48293)">
+     transform="translate(-39.086997,-107.77599)">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        id="rect4566"
-       width="50.391483"
-       height="9.1722212"
+       width="37.793613"
+       height="6.8791661"
        x="39.086998"
-       y="105.48293" />
+       y="107.77599" />
     <g
        style="opacity:1;fill:#000000"
-       transform="matrix(0,-0.24842212,0.32239384,0,2.9218029,136.71415)"
+       transform="matrix(0,-0.18631659,0.24179538,0,11.963101,131.1994)"
        id="g4583-6-6-1-5-1-3">
       <rect
          y="112.93147"
@@ -98,7 +98,7 @@
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.55056286;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     </g>
     <g
-       transform="translate(-30.406826,0.00120496)"
+       transform="matrix(0.75,0,0,0.75,-13.03337,28.664692)"
        id="g4747-3">
       <rect
          transform="rotate(-90)"
@@ -124,7 +124,7 @@
     </g>
     <g
        id="g4807"
-       transform="matrix(-1,0,0,1,83.832538,0)">
+       transform="matrix(-0.75,0,0,0.75,72.646153,28.663788)">
       <g
          style="fill:#000000"
          transform="matrix(0,-0.23173143,0.30072105,0,11.630174,137.45664)"
@@ -184,7 +184,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Layer 3"
-     transform="translate(-39.086997,-105.48293)">
+     transform="translate(-39.086997,-107.77599)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.47751331px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23693781px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -200,7 +200,7 @@
        aria-label="teno"
        style="font-style:normal;font-weight:normal;font-size:9.47751331px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23693781px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text4912"
-       transform="matrix(0.99038456,0,0,0.99038456,0.8164369,17.986685)">
+       transform="matrix(0.74278842,0,0,0.74278842,10.384077,42.153802)">
       <path
          d="m 46.560465,88.802257 v 1.471607 h 1.753896 v 0.66176 h -1.753896 v 2.813636 q 0,0.633994 0.171225,0.814474 0.175852,0.18048 0.708037,0.18048 h 0.874634 v 0.712665 h -0.874634 q -0.985699,0 -1.360542,-0.365588 -0.374843,-0.370215 -0.374843,-1.342031 v -2.813636 h -0.624738 v -0.66176 h 0.624738 v -1.471607 z"
          style="fill:#000000;stroke-width:0.23693781px"
@@ -226,7 +226,7 @@
        aria-label="log"
        style="font-style:normal;font-weight:normal;font-size:9.47751331px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23693781px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="text4916"
-       transform="matrix(0.99038456,0,0,0.99038456,0.81589416,18.119598)">
+       transform="matrix(0.74278842,0,0,0.74278842,10.38367,42.253487)">
       <path
          d="m 76.594187,88.25619 h 0.851495 v 7.200689 h -0.851495 z"
          style="fill:#000000;stroke-width:0.23693781px"
@@ -245,7 +245,7 @@
     </g>
     <g
        style="opacity:1;fill:#000000"
-       transform="matrix(0,-0.24842212,0.32239384,0,33.328628,136.71294)"
+       transform="matrix(0,-0.18631659,0.24179538,0,34.76822,131.19849)"
        id="g4583-6-6-1-5-1">
       <rect
          y="112.93147"
@@ -268,7 +268,8 @@
          style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.55056286;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke" />
     </g>
     <g
-       id="g4747">
+       id="g4747"
+       transform="matrix(0.75,0,0,0.75,9.7717492,28.663788)">
       <rect
          transform="rotate(-90)"
          y="70.579201"
@@ -297,7 +298,7 @@
        style="fill:#000000">
       <g
          id="g4583-6-6-5-3"
-         transform="translate(27.202474,-20.819401)"
+         transform="matrix(0.75,0,0,0.75,44.999592,-18.066993)"
          style="fill:#000000">
         <rect
            style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.40318251;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -322,7 +323,7 @@
     </g>
     <g
        style="fill:#ffffff"
-       transform="matrix(0,-0.14275305,0.20102949,0,47.87644,121.9237)"
+       transform="matrix(0,-0.10706479,0.15077212,0,45.679079,120.10656)"
        id="g4583-6-6-1-5-1-1-4">
       <rect
          y="112.93147"
@@ -360,5 +361,5 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-39.086997,-105.48293)" />
+     transform="translate(-39.086997,-107.77599)" />
 </svg>
